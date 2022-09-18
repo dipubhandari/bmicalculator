@@ -1,0 +1,41 @@
+.bmidiv {
+    height: 70vh;
+    background-color: rgb(240, 240, 240);
+    width: 30%;
+    margin: auto;
+}
+
+.n {
+    font-weight: bold;
+}
+
+.heading {
+
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+.reload {
+    height: 40px;
+
+}
+
+
+
+.nin {
+    height: 25px;
+    border-radius: 2px;
+}
+
+
+.submit {
+    background-color: black;
+    height: 40px;
+    color: white;
+}
+
+.bmidata {
+    display: grid;
+    margin: 12px;
+}
